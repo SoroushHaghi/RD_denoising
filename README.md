@@ -1,4 +1,4 @@
-# RD_denoising
+# R&D
 In this project we are using 3 steps.
 
 PART 1
