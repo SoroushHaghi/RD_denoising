@@ -1,5 +1,5 @@
 # R&D
-In this project we are using 3 steps.
+In this project we are using 3 modules.
 
 PART 1
 "NOISATION"
